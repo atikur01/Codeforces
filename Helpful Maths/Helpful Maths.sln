@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpful Maths", "Helpful Maths\Helpful Maths.csproj", "{0FB21675-BB5D-468A-847F-27E8E2104F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FB21675-BB5D-468A-847F-27E8E2104F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB21675-BB5D-468A-847F-27E8E2104F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB21675-BB5D-468A-847F-27E8E2104F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB21675-BB5D-468A-847F-27E8E2104F40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34E89989-E195-4F12-A8DB-755A37D7BF81}
+	EndGlobalSection
+EndGlobal
